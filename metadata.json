@@ -1,0 +1,6 @@
+{
+  "name": "Menu MBG SPPG Palasari Cibiru",
+  "description": "Aplikasi Informasi Menu MBG SPPG Palasari Cibiru Kota Bandung - Yayasan Almadinah I dengan Admin Form, QR Code Dinamis Logo BGN, dan Halaman Publik Responsif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
